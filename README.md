@@ -6,7 +6,7 @@ This workflow contains 2 scripts for Zoom. *Tested with Zoom Version: 5.2.0 (426
 ## Leave Zoom
 #### Keyword: LZ
 This uses Applescript GUI scripting to leave the active zoom meeting.
-*This Apple script is from Aaron Saray's website (https://www.aaronsaray.com/2020/leave-zoom-with-alfred)
+This Apple script is from Aaron Saray's website (https://www.aaronsaray.com/2020/leave-zoom-with-alfred)
 
 
 ## Dial Into Zoom
